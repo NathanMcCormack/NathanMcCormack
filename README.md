@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final Year Software & Electronic Student at ATU Galway. I have a passion for learning and innovating and contributing to meaningful projects.<br>I've built many projects throughout my time spent in college, all of which can be accessed here.
+Masters Student at University of Galway studying Adaptive Cyber Security
 
 
 ## 🌐 Socials:
